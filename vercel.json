@@ -1,11 +1,12 @@
 {
   "headers": [
     {
-      "source": "/john-doe.vcf",
+      "source": "/PyroprintDamir.vcf",
       "headers": [
         { "key": "Content-Type", "value": "text/vcard" },
-        { "key": "Content-Disposition", "value": "inline; filename=\"john-doe.vcf\"" }
+        { "key": "Content-Disposition", "value": "inline; filename=\"PyroprintDamir.vcf\"" }
       ]
     }
   ]
+
 }
