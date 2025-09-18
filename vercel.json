@@ -1,0 +1,11 @@
+{
+  "headers": [
+    {
+      "source": "/john-doe.vcf",
+      "headers": [
+        { "key": "Content-Type", "value": "text/vcard" },
+        { "key": "Content-Disposition", "value": "inline; filename=\"john-doe.vcf\"" }
+      ]
+    }
+  ]
+}
