@@ -6,9 +6,6 @@
         { "key": "Content-Type", "value": "text/vcard" },
         { "key": "Content-Disposition", "value": "inline; filename=\"PyroprintDamir.vcf\"" }
       ]
-    "routes": [
-    { "src": "/robots.txt", "dest": "/robots.txt" }
-  ]
     }
   ]
 }
